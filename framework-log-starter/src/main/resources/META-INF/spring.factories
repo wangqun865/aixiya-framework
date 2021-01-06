@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.aixiya.framework.backend.log.starter.configure.PlatformLogFilterAutoConfiguration,\
+com.aixiya.framework.backend.log.starter.configure.kafka.PlatformKafkaAutoConfiguration
